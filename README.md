@@ -7,5 +7,5 @@ concrete factories are the ones that are in charge of deleivering each product r
 abstract product gives an interface that all products of a group must follow in an abstact way
 concrete product is the actual instance of object that will be created by concrete factory specific to factory's product family.
 
-![Logo](../structure.png)
+![Logo](./structure.png)
 
