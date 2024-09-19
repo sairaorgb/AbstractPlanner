@@ -1,0 +1,14 @@
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.AssemblyInfoInputs.cache
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.AssemblyInfo.cs
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.csproj.CoreCompileInputs.cache
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\bin\Debug\net8.0\ClassScheduleFactory.exe
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\bin\Debug\net8.0\ClassScheduleFactory.deps.json
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\bin\Debug\net8.0\ClassScheduleFactory.runtimeconfig.json
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\bin\Debug\net8.0\ClassScheduleFactory.dll
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\bin\Debug\net8.0\ClassScheduleFactory.pdb
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.dll
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\refint\ClassScheduleFactory.dll
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.pdb
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ClassScheduleFactory.genruntimeconfig.cache
+C:\Users\sai vudem\source\repos\ClassScheduleFactory\obj\Debug\net8.0\ref\ClassScheduleFactory.dll
